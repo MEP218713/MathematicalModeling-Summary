@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Problem Background}{2}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Restatement of the Problem}{3}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Literature Review}{3}{subsection.1.3}%
+\contentsline {section}{\numberline {2}Preparation of the Models}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Assumptions and Justifications}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Notions and Symbol Description}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Model Establishment and Solution of Problems}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Data overview}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Problem 1}{5}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Data preprocessing}{5}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Problem Modeling}{7}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Model solving}{9}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Conclusion}{9}{subsubsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.3}Problem 2}{9}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Data preprocessing}{9}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}Problem Modeling}{11}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Model solving}{12}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}Conclusion}{13}{subsubsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.4}Problem 3}{13}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}Data preprocessing}{13}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}Problem Modeling}{15}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Model solving}{16}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Conclusion}{17}{subsubsection.3.4.4}%
+\contentsline {subsection}{\numberline {3.5}Problem 4}{17}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}Data preprocessing}{17}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Problem Analysis and Modeling}{18}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Conclusion}{18}{subsubsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.6}Problem 5}{18}{subsection.3.6}%
+\contentsline {section}{\numberline {4}Strengths and Weaknesses}{19}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Strengths:}{19}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Weaknesses:}{19}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Memorandum}{20}{section.5}%
+\contentsline {section}{Appendices}{22}{section*.2}%
+\contentsline {section}{Appendix \numberline {A}}{22}{appendix.a.A}%
+\contentsline {section}{Appendix \numberline {B}}{23}{appendix.a.B}%
